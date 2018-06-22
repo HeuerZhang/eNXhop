@@ -1,2 +1,2 @@
 # eNXhop
-Nintendo Switch title downloader (like FreeShop), based on Rei's BogInstaller (evolution of eXhop)
+Nintendo Switch CDN title installer, based on Rei's BogInstaller (evolution of eXhop)
